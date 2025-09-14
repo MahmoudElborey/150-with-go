@@ -1,4 +1,4 @@
-
+package withgo
 func removeElement(nums []int, val int) int {
     arrayLength := len(nums)
     var pos int = 0

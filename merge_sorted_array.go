@@ -1,3 +1,4 @@
+package withgo
 import (
     "fmt"
 )

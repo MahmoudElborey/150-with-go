@@ -1,3 +1,4 @@
+package withgo
 func removeDuplicates(nums []int) int {
     arrayLength:= len(nums)
     var answer int = 1
