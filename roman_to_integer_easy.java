@@ -26,3 +26,13 @@ class Solution {
         
     }
 }
+
+
+public class roman_to_integer_easy {
+    public static void main(String[] args) {
+        Solution sol = new Solution();
+        String s = "MCMXCIV";
+        int result = sol.romanToInt(s);
+        System.out.println("The integer value of the Roman numeral " + s + " is: " + result);
+    }
+}
